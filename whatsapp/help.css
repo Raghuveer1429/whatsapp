@@ -1,0 +1,145 @@
+.header{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    margin-top: -80px;
+}
+
+.main-header{
+    display: flex;
+    margin-left: 30px;
+    background-color: #108b10ec;
+    margin: -10px;
+    height: 50px;
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.img1{
+    margin-top: -10px;
+}
+.text1{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.text2{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 1060px;
+    margin-top: 6px;
+}
+
+
+
+.main-button{
+    margin-top: 150px;  
+}
+.button1{
+    width: 350px;
+    height: 60px;
+    background-color: white;
+    border: 0px;
+}
+.img2{
+    margin-left: -300px;
+    
+}
+.text3{
+    font-size: 18px;
+    margin-top: -20px;
+    margin-left: 50px;
+    text-align:left;
+}
+.box1{
+    border:  solid 0px ;
+    height: 550px;
+    width: 350px;
+    margin-top: 80px;
+    box-shadow: 2px 2px 2px rgb(168, 167, 167);
+}
+.navigation{
+    
+}
+
+
+
+.text4{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 450px;
+    margin-top: -520px;
+}
+.input1{
+    height: 70px;
+    width: 800px;
+    margin-left: 450px;
+    border-radius: 20px;
+    font-size: 16px;
+    padding-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(231, 231, 236);
+    border: 0px;
+
+}
+.img3{
+    margin-left: -790px;
+}
+.text6{
+    margin-left: 470px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+.text5{
+    margin-left: 470px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.text5 a{
+    text-decoration: none;
+    color: rgb(82, 158, 209);
+}
+.img3{
+   margin-left: 900px;
+   margin-top: -250px;
+}
+
+
+.main-footer{
+    display: flex;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.text7{
+    margin-left: 380px;
+    
+}
+.text8{
+    margin-left:70px;
+}
+.text9{
+    margin-left: 70px;
+}
+.text10{
+    margin-left: 70px;
+}
+.img4{
+    margin-left:1100px;
+}
+.image4{
+    margin-top: -80px;
+}
+.footer{
+    background-color: rgb(230, 238, 243);
+   height: 100px;
+   padding-top: 20px;
+   margin-top: 50px;
+   color: gray;
+   margin: -10px;
+   margin-top: 50px;
+}
